@@ -10,6 +10,7 @@ O repositório está organizado em quatro pastas principais:
 * dashboard: Guarda os arquivos de dashboards criados no Power BI.
 * notebooks: Inclui os notebooks utilizados para o tratamento e análise exploratória dos dados (EDA).
 Notebooks
+
 Na pasta notebooks, você encontrará:
 
 * 01A-limpeza-de-dados.ipynb: Notebook responsável pelo tratamento do primeiro dataset.
