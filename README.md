@@ -29,7 +29,7 @@ O principal objetivo deste projeto é explorar os dados dos aplicativos da Googl
 Este dashboard apresenta uma visão abrangente dos aplicativos analisados, incluindo:
 
 Gráfico de Barras: Comparações entre a quantidade de downloads e o gênero dos aplicativos
-![alt text](/Google%20play%20store%20apps/Image/image-1.png)
+![alt text](Image/image-1.png)
 
 Mapa de Árvore (Tree Map): Distribuição dos aplicativos por gênero principal.
 ![alt text](/Google%20play%20store%20apps/Image/image-2.png)
