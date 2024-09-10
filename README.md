@@ -32,7 +32,7 @@ Gráfico de Barras: Comparações entre a quantidade de downloads e o gênero do
 ![alt text](Image/image-1.png)
 
 Mapa de Árvore (Tree Map): Distribuição dos aplicativos por gênero principal.
-![alt text](/Google%20play%20store%20apps/Image/image-2.png)
+![alt text](Image/image-2.png)
 
 📈 Insights Obtidos
 Aplicativos Gratuitos vs Pagos: Uma maioria significativa dos aplicativos na Google Play Store são gratuitos, o que pode influenciar na estratégia de monetização dos desenvolvedores.
