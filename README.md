@@ -29,10 +29,10 @@ O principal objetivo deste projeto é explorar os dados dos aplicativos da Googl
 Este dashboard apresenta uma visão abrangente dos aplicativos analisados, incluindo:
 
 Gráfico de Barras: Comparações entre a quantidade de downloads e o gênero dos aplicativos
-![alt text](Image/image-1.png)
+![alt text](images/image-1.png)
 
 Mapa de Árvore (Tree Map): Distribuição dos aplicativos por gênero.
-![alt text](Image/image-2.png)
+![alt text](images/image-2.png)
 
 ## 📈 **Insights Obtidos**
 Aplicativos Gratuitos vs Pagos: Uma maioria significativa dos aplicativos na Google Play Store são gratuitos, o que pode influenciar na estratégia de monetização dos desenvolvedores.
