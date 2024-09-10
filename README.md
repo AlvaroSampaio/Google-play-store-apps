@@ -1,4 +1,4 @@
-📊 # **Análise de Dados de Aplicativos da Google Play Store**
+# 📊 **Análise de Dados de Aplicativos da Google Play Store**
 
 📑 Visão Geral
 
