@@ -28,7 +28,7 @@ O principal objetivo deste projeto é explorar os dados dos aplicativos da Googl
 1. Dashboard: Visão Geral dos Aplicativos
 Este dashboard apresenta uma visão abrangente dos aplicativos analisados, incluindo:
 
-Gráfico de Barras: Comparações entre a quantidade de downloads e o gênero dos aplicativos
+Gráfico de Barras: Comparações entre a quantidade de downloads e o total de aplicativos
 
 Mapa de Árvore (Tree Map): Distribuição dos aplicativos por gênero.
 ![alt text](images/1.png)
